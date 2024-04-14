@@ -1,0 +1,43 @@
+body {
+    background-image: url("https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/6-Best-Expense-Tracking-Apps-for-Android.jpg");
+    background-size: cover;
+    height: 100vh;
+  }
+
+  header {
+    background-color: #343a40;
+  }
+
+  #header-title {
+    color: green;
+    font-family: cursive;
+  }
+
+  #main {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+
+  .form-label {
+    color: #450b0b;
+  }
+
+  .form-control {
+    margin-bottom: 10px;
+  }
+
+  .btn-primary {
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+
+  .btn-primary:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+  }
+
+  p {
+    color: #0e0e1f;
+  }
